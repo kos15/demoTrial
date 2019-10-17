@@ -1,2 +1,2 @@
 # demoTrial
-For trial and testing purposes
+to test the new website with all the possibilities before making it online.
